@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "yR85bzF3cqXaBBwl89NxBcXSs2NCRsTrAUFerOggUKs=",
+  "Source": "WhiteBoard",
+  "BasePath": "_content/WhiteBoard",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WhiteBoard\\wwwroot",
+      "Source": "WhiteBoard",
+      "ContentRoot": "C:\\Projecten\\EonicsHackNight\\WhiteBoard\\WhiteBoard\\wwwroot\\",
+      "BasePath": "_content/WhiteBoard",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projecten\\EonicsHackNight\\WhiteBoard\\WhiteBoard\\wwwroot\\index.html",
+      "SourceId": "WhiteBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projecten\\EonicsHackNight\\WhiteBoard\\WhiteBoard\\wwwroot\\",
+      "BasePath": "_content/WhiteBoard",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Projecten\\EonicsHackNight\\WhiteBoard\\WhiteBoard\\wwwroot\\lib\\signalr.js",
+      "SourceId": "WhiteBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projecten\\EonicsHackNight\\WhiteBoard\\WhiteBoard\\wwwroot\\",
+      "BasePath": "_content/WhiteBoard",
+      "RelativePath": "lib/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\signalr.js"
+    },
+    {
+      "Identity": "C:\\Projecten\\EonicsHackNight\\WhiteBoard\\WhiteBoard\\wwwroot\\lib\\signalr.min.js",
+      "SourceId": "WhiteBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projecten\\EonicsHackNight\\WhiteBoard\\WhiteBoard\\wwwroot\\",
+      "BasePath": "_content/WhiteBoard",
+      "RelativePath": "lib/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\signalr.min.js"
+    },
+    {
+      "Identity": "C:\\Projecten\\EonicsHackNight\\WhiteBoard\\WhiteBoard\\wwwroot\\lib\\third-party-notices.txt",
+      "SourceId": "WhiteBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projecten\\EonicsHackNight\\WhiteBoard\\WhiteBoard\\wwwroot\\",
+      "BasePath": "_content/WhiteBoard",
+      "RelativePath": "lib/third-party-notices.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\third-party-notices.txt"
+    }
+  ]
+}

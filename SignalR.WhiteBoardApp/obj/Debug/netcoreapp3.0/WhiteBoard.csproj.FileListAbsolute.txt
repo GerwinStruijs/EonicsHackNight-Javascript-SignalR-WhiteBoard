@@ -1,0 +1,17 @@
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\bin\Debug\netcoreapp3.0\WhiteBoard.exe
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\bin\Debug\netcoreapp3.0\WhiteBoard.deps.json
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\bin\Debug\netcoreapp3.0\WhiteBoard.runtimeconfig.json
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\bin\Debug\netcoreapp3.0\WhiteBoard.runtimeconfig.dev.json
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\bin\Debug\netcoreapp3.0\WhiteBoard.dll
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\bin\Debug\netcoreapp3.0\WhiteBoard.pdb
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\obj\Debug\netcoreapp3.0\WhiteBoard.csproj.AssemblyReference.cache
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\obj\Debug\netcoreapp3.0\WhiteBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\obj\Debug\netcoreapp3.0\WhiteBoard.AssemblyInfoInputs.cache
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\obj\Debug\netcoreapp3.0\WhiteBoard.AssemblyInfo.cs
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\obj\Debug\netcoreapp3.0\WhiteBoard.csproj.CoreCompileInputs.cache
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\obj\Debug\netcoreapp3.0\WhiteBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\obj\Debug\netcoreapp3.0\staticwebassets\WhiteBoard.StaticWebAssets.Manifest.cache
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\obj\Debug\netcoreapp3.0\WhiteBoard.RazorTargetAssemblyInfo.cache
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\obj\Debug\netcoreapp3.0\WhiteBoard.dll
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\obj\Debug\netcoreapp3.0\WhiteBoard.pdb
+C:\Projecten\EonicsHackNight\WhiteBoard\WhiteBoard\obj\Debug\netcoreapp3.0\WhiteBoard.genruntimeconfig.cache
