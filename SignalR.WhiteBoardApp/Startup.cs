@@ -7,12 +7,11 @@ namespace WhiteBoard
 {
     public class Startup
     {
-
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSignalR().AddAzureSignalR(options =>
             {
-                options.ConnectionString = "Endpoint=https://eonicshacknight.service.signalr.net;AccessKey=NdXLbdvwwKs4v2V0zc+Soy6djkcBmrIUEfui0RuBfh0=;Version=1.0";
+                options.ConnectionString = "Endpoint=https://eonicshacknight-classic.service.signalr.net;AccessKey=YUfMYMQGcGw09fAadfGEmWUnUNT2hNdwd1IQ9uDAFiQ=;Version=1.0";
             });
         }
 
